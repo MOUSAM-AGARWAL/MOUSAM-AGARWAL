@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, C++, Java programming, Front-End Web Developement and also I am an Competetive Programming enthaist.
 - 🌱 I’m currently learning JavaScript and Backend Developement.
 - 💞️ I’m looking to collaborate on projrct related to Frontend Developement, about Coding part any other respective task suitable to my skills.
-- 📫 For reaching to me, Please E-mail me at - "agarwalmousamedu360@gmail.com".
+- 📫 For reaching to me, Please E-mail me at - "agarwalmousam.work24@gmail.com".
 - Here is my Linkedin Profile link :- "https://www.linkedin.com/in/mousam-agarwal-123772211"
 
 <!---
